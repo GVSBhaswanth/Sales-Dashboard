@@ -8,7 +8,6 @@ This is an interactive sales dashboard built using Microsoft Power BI.
 - Data cleaning & modeling
 
 ## 📂 Features
-- Monthly Sales Trends (Line Chart)
 - Category-wise Sales Breakdown
 - Region/Segment Sales
 - KPIs: Total Sales, Orders
@@ -17,7 +16,6 @@ This is an interactive sales dashboard built using Microsoft Power BI.
 - Sample Superstore Dataset (public)
 
 ## 🎯 Key Insights
-- Identified peak sales months
 - Highest revenue from Technology category
 - West region outperforms in all segments
 
